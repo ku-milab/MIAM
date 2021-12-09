@@ -6,7 +6,8 @@ This repository provides the official PyTorch implementation of the following pa
 > [Yurim Lee](https://github.com/yurimaLee/)<sup>1</sup>, [Eunji Jun](https://scholar.google.co.kr/citations?user=uR6W4TUAAAAJ&hl=ko)<sup>1</sup>, [Heung-Il Suk](https://scholar.google.co.kr/citations?user=dl_oZLwAAAAJ&hl=ko)<sup>1</sup> 
 > (<sup>1</sup>Korea University) <br/>
 > [[arXiv version]](https://arxiv.org/pdf/2101.09986.pdf)
-> Under review, Journal of Biomedical and Health Informatics (JBHI)
+> 
+> Under review, Journal of Biomedical and Health Informatics
 
 
 ## Files description
