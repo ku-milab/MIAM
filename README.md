@@ -1,7 +1,13 @@
-# MIAM
-This repository contains the implementation of our Multi-view Integration Attention Model (MIAM). It has been written in Python, using Pytorch.
+## MIAM
+<p align="center"><img width="90%" src="files/Framework.png" /></p>
 
-The details of this model are included in [this paper](http://arxiv.org/abs/2101.09986). Please cite it if you use this code for your own research.
+This repository provides the official PyTorch implementation of the following paper:
+> **Multi-view Integration Learning for Irregularly-sampled Clinical Time Series (MIAM)**<br>
+> [Yurim Lee](https://github.com/yurimaLee/)<sup>1</sup>, [Eunji Jun](https://scholar.google.co.kr/citations?user=uR6W4TUAAAAJ&hl=ko)<sup>1</sup>, [Heung-Il Suk](https://scholar.google.co.kr/citations?user=dl_oZLwAAAAJ&hl=ko)<sup>1</sup> 
+> (<sup>1</sup>Korea University) <br/>
+> [[arXiv version]](https://arxiv.org/pdf/2101.09986.pdf)
+> Under review, Journal of Biomedical and Health Informatics (JBHI)
+
 
 ## Files description
 ### MIAM
@@ -11,3 +17,8 @@ The details of this model are included in [this paper](http://arxiv.org/abs/2101
 ### Extended
   Includes the extended version for Journal (Under Review)
   * lrp.py: Layer-wise Relevance Propagation code for analysis
+
+
+## Acknowledgements
+This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant
+funded by the Korea government(MSIT) (No. 2019-0-00079, Artificial Intelligence Graduate School Program(Korea University))
